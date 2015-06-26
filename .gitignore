@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/CPAN-Test-Dummy-DistZillaUnderScoreVersion-*/
+/CPAN-Test-Dummy-DistZillaUnderScoreVersion-*.tar.gz
