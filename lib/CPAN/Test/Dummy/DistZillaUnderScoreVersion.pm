@@ -5,7 +5,7 @@ package CPAN::Test::Dummy::DistZillaUnderScoreVersion;
 # KEYWORDS: ...
 # vim: set ts=8 sts=4 sw=4 tw=78 et :
 
-our $VERSION = '0.001';
+our $VERSION = '0.001_001';
 
 1;
 __END__
